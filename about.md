@@ -1,2 +1,2 @@
-# Over de auteur 
-Deze wiki gemaakt door Yassine Lasgaa.
+
+ Deze wiki is gemaakt door Yassine Lasgaa
